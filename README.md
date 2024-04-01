@@ -81,7 +81,7 @@ or
 pipenv run test
 ```
 
-### Visit my GitHub profile for more projects 🚀
+### Visit my GitHub profile to see all solved katas 🚀
 
-[![Web](https://img.shields.io/badge/GitHub-Dimanu.py-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dimanu-py)
+[![Web](https://img.shields.io/badge/GitHub-Dimanu.py-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dimanu-py/code-katas)
 
